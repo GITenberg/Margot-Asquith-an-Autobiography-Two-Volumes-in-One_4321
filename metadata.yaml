@@ -1,0 +1,31 @@
+_repo: Margot-Asquith-an-Autobiography-Two-Volumes-in-One_4321
+creator:
+  author:
+    agent_name: Asquith, Margot
+    aliases:
+    - Asquith, Margaret
+    - Oxford and Asquith, Margot, Countess of
+    - Tennant, Emma Alice Margaret
+    - Asquith, Emma Alice Margaret
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '1441'
+    url: http://www.gutenberg.org/2009/agents/1441
+    wikipedia: http://en.wikipedia.org/wiki/Margot_Asquith
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asquith, Margot, 1864-1945'
+- !lcc 'DA'
+- !lcsh 'Autobiographies'
+- !lcc 'CT'
+title: Margot Asquith, an Autobiography - Two Volumes in One
+url: http://www.gutenberg.org/ebooks/4321
