@@ -1,5 +1,5 @@
 _repo: Margot-Asquith-an-Autobiography-Two-Volumes-in-One_4321
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcc 'DA'
 - !lcsh 'Autobiographies'
 - !lcc 'CT'
+- GITenberg
 title: Margot Asquith, an Autobiography - Two Volumes in One
 url: http://www.gutenberg.org/ebooks/4321
